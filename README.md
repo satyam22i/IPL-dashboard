@@ -62,9 +62,11 @@ npm run dev
 <img width="1730" height="768" alt="image" src="https://github.com/user-attachments/assets/1d9ffebc-2300-41f9-aba2-19739b9ffeca" />
 
 ## 👤 Author
-Satyam 
-💻 Developer | 📚 Learner | 🧠 Problem Solver
-📧 satyam_2312res584@iitp.ac.in | 🌐 https://www.linkedin.com/in/satyam-srivastav-824a33288
+Satyam | 
+💻 Developer | 
+📚 Learner |
+📧 satyam_2312res584@iitp.ac.in | 
+🌐 https://www.linkedin.com/in/satyam-srivastav-824a33288
 
 
 
