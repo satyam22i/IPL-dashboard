@@ -34,8 +34,8 @@ It displays live and completed match data, pulled from a MongoDB database with f
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/ipl-live-dashboard.git
-cd ipl-live-dashboard
+git clone https://github.com/satyam22i/IPL-dashboard.git
+cd IPL-dashboard
 
 ## SetUp Backend: 
 cd Backend
@@ -55,6 +55,13 @@ node server.js
 cd ../Frontend
 npm install
 npm run dev
+```
+## 📸 Screenshots
+<img width="1706" height="762" alt="image" src="https://github.com/user-attachments/assets/3cd8b1da-eb33-49b0-a62c-fc0ec7ddf52d" />
+<img width="1689" height="854" alt="image" src="https://github.com/user-attachments/assets/71d3bf04-b2d1-4937-a02e-9ef52cf82da3" />
+<img width="1730" height="768" alt="image" src="https://github.com/user-attachments/assets/1d9ffebc-2300-41f9-aba2-19739b9ffeca" />
+
+
 
 
 
