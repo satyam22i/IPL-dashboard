@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("https://ipl-dashboard-1-x9va.onrender.com/api/matches")
+      .get("http://localhost:5000/api/matches")
       .then((res) => setMatches(res.data))
       .catch((err) => console.error(err));
   }, []);
