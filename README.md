@@ -55,8 +55,10 @@ node server.js
 cd ../Frontend
 npm install
 npm run dev
+
 ```
-🚀 **Live Demo:** [Click here to view]([https://your-deployment-link.com](https://fluffy-cupcake-9ebe78.netlify.app/))
+## 🚀 **Live Demo:** [Click here to view](https://fluffy-cupcake-9ebe78.netlify.app/)
+
 
 ## 📸 Screenshots
 <img width="1706" height="762" alt="image" src="https://github.com/user-attachments/assets/3cd8b1da-eb33-49b0-a62c-fc0ec7ddf52d" />
